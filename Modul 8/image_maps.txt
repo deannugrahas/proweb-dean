@@ -1,0 +1,6 @@
+<img src=”nama_gambar” width=”lebar_gambar”
+height=”tinggi_gambar” usemap=”#nama_map” border=0> 
+<map name=”nama_map”>
+<area shape=”jenis_map” coords=”koordinat map” 
+href=”file_yang_dipanggil”>
+</map>
